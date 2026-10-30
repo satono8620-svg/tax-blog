@@ -1,7 +1,7 @@
 ---
 title: "（記事タイトル）"
 date: 2026-00-00
-status: draft        # draft / review / published
+status: draft        # draft / review / published（Notion でも同じ区分で管理）
 tax_year: 2026       # 何年分（何年度）の税制に基づくか
 category: ""         # 例: 所得税 / 相続税 / インボイス / 年末調整
 target_reader: ""    # 例: 初めて確定申告する会社員
